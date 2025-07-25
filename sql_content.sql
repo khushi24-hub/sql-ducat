@@ -121,3 +121,4 @@ select salary - (salary*5)/100 as dud_salary  from employee;
 select round(salary - (salary*5)/100) as dud_salary  from employee;
 
 
+25th july, friday
